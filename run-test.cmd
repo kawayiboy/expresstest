@@ -1,1 +1,1 @@
-npm install -d
+mocha spec spec/test.js
